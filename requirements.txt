@@ -1,0 +1,8 @@
+dash==2.9.3
+dash-bootstrap-components==1.4.1
+Flask==2.2.5
+pandas
+openpyxl
+xlsxwriter
+plotly
+networkx
